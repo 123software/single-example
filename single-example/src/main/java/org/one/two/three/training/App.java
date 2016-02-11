@@ -5,7 +5,7 @@ package org.one.two.three.training;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
